@@ -1,0 +1,562 @@
+   660→                  <button type="button" class="btn btn-line hot" data-go="s14" data-tip="→ 14 · Login / Register">Login / Register</button>
+   661→                  <button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button>
+   662→                </div>
+   663→              </header>
+   664→              <div class="crumbrow">Home&nbsp; /&nbsp; <b>All Categories</b></div>
+   665→              <div class="sec" style="padding-top:8px">
+   666→                <div class="sect-h">Browse by Category<span class="mut" style="font-size:11px;font-weight:600">18 departments · 5 lakh+ products</span></div>
+   667→                <div class="pgrid3" style="grid-template-columns:repeat(4,1fr)">
+   668→                  <div class="pcard hot" data-go="s04" data-tip="→ 04 · Staples listing (demo)">
+   669→                    <span class="wf-img p-img" style="height:80px"><i>Food &amp; Beverage</i></span>
+   670→                    <div class="p-body"><div class="p-name">Food &amp; Beverage</div><div class="mut">12,542 products</div><div class="row sect-link">View Products →</div></div>
+   671→                  </div>
+   672→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   673→                    <span class="wf-img p-img" style="height:80px"><i>FMCG</i></span>
+   674→                    <div class="p-body"><div class="p-name">FMCG &amp; Daily Needs</div><div class="mut">8,765 products</div><div class="row sect-link">View Products →</div></div>
+   675→                  </div>
+   676→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   677→                    <span class="wf-img p-img" style="height:80px"><i>Agriculture</i></span>
+   678→                    <div class="p-body"><div class="p-name">Agriculture &amp; Agro</div><div class="mut">6,234 products</div><div class="row sect-link">View Products →</div></div>
+   679→                  </div>
+   680→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   681→                    <span class="wf-img p-img" style="height:80px"><i>Packaging</i></span>
+   682→                    <div class="p-body"><div class="p-name">Packaging Materials</div><div class="mut">3,984 products</div><div class="row sect-link">View Products →</div></div>
+   683→                  </div>
+   684→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   685→                    <span class="wf-img p-img" style="height:80px"><i>Industrial</i></span>
+   686→                    <div class="p-body"><div class="p-name">Industrial Supplies</div><div class="mut">9,876 products</div><div class="row sect-link">View Products →</div></div>
+   687→                  </div>
+   688→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   689→                    <span class="wf-img p-img" style="height:80px"><i>Building</i></span>
+   690→                    <div class="p-body"><div class="p-name">Building Materials</div><div class="mut">4,321 products</div><div class="row sect-link">View Products →</div></div>
+   691→                  </div>
+   692→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   693→                    <span class="wf-img p-img" style="height:80px"><i>Electronics</i></span>
+   694→                    <div class="p-body"><div class="p-name">Electronics &amp; Appliances</div><div class="mut">5,432 products</div><div class="row sect-link">View Products →</div></div>
+   695→                  </div>
+   696→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   697→                    <span class="wf-img p-img" style="height:80px"><i>Textiles</i></span>
+   698→                    <div class="p-body"><div class="p-name">Textiles &amp; Apparel</div><div class="mut">2,876 products</div><div class="row sect-link">View Products →</div></div>
+   699→                  </div>
+   700→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   701→                    <span class="wf-img p-img" style="height:80px"><i>Home &amp; Office</i></span>
+   702→                    <div class="p-body"><div class="p-name">Home &amp; Office Supplies</div><div class="mut">1,543 products</div><div class="row sect-link">View Products →</div></div>
+   703→                  </div>
+   704→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   705→                    <span class="wf-img p-img" style="height:80px"><i>Beauty</i></span>
+   706→                    <div class="p-body"><div class="p-name">Beauty &amp; Personal Care</div><div class="mut">2,109 products</div><div class="row sect-link">View Products →</div></div>
+   707→                  </div>
+   708→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   709→                    <span class="wf-img p-img" style="height:80px"><i>Pharma</i></span>
+   710→                    <div class="p-body"><div class="p-name">Pharma &amp; Healthcare</div><div class="mut">1,204 products</div><div class="row sect-link">View Products →</div></div>
+   711→                  </div>
+   712→                  <div class="pcard" data-go="s04" data-tip="→ 04 · Listing (demo shows Staples)">
+   713→                    <span class="wf-img p-img" style="height:80px"><i>Auto</i></span>
+   714→                    <div class="p-body"><div class="p-name">Auto &amp; Electrical</div><div class="mut">1,890 products</div><div class="row sect-link">View Products →</div></div>
+   715→                  </div>
+   716→                </div>
+   717→              </div>
+   718→              <div class="sec strip">
+   719→                <span class="brandbox">✓ Verified Suppliers</span><span class="brandbox">Bulk Discount Prices</span><span class="brandbox">Secure Payments</span><span class="brandbox">Fast Delivery</span>
+   720→                <span class="sp"></span><span class="mut" style="font-size:10.5px">Wireframe — every card routes to the Staples listing demo</span>
+   721→              </div>
+   722→              <footer class="ftr">
+   723→                <div class="fbot" style="border-top:none;padding-top:0">
+   724→                  <span class="mut">© 2026 BulkSetu · Categories — wireframe</span>
+   725→                  <span class="paychips"><span class="brandbox">UPI</span><span class="brandbox">RuPay</span><span class="brandbox">VISA</span><span class="brandbox">NetBanking</span></span>
+   726→                </div>
+   727→              </footer>
+   728→            </div>
+   729→          </div>
+   730→        </section>
+   731→
+   732→        <!-- ============ 04 · PRODUCT LISTING ============ -->
+   733→        <section class="screen" id="s04" data-w="1160">
+   734→          <div class="scr-cap"><span class="cap-n">04</span>Product Listing — Food &amp; Beverage › Staples<span class="cap-d">Desktop · 1160 px</span></div>
+   735→          <div class="chrome">
+   736→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/food-beverage/staples</span><span class="chrome-x">⋯</span></div>
+   737→            <div class="site">
+   738→              <div class="u-strip"><span>Free delivery on bulk orders above ₹50,000</span><span class="sp"></span><a>Sell on BulkSetu</a><a>Help &amp; Support</a><a>EN ▾</a></div>
+   739→              <header class="hdr">
+   740→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+   741→                <div class="srch"><span class="inp grow">Search in Staples — “atta”, “dal”, “mustard oil”…</span><button type="button" class="btn btn-navy">Search</button></div>
+   742→                <div class="hdr-r">
+   743→                  <button type="button" class="btn btn-line hot" data-go="s14" data-tip="→ 14 · Login / Register">Login / Register</button>
+   744→                  <button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button>
+   745→                </div>
+   746→              </header>
+   747→              <nav class="navrow">
+   748→                <button type="button" class="btn btn-line btn-sm">All Categories ▾</button>
+   749→                <a class="hot" data-go="s02" data-tip="→ 02 · Home">Home</a>
+   750→                <a class="hot" data-go="s03" data-tip="→ 03 · Categories">Categories</a>
+   751→                <span class="sp"></span>
+   752→                <a class="hot" data-go="s10" data-tip="→ 10 · My Orders">My Orders</a>
+   753→              </nav>
+   754→              <div class="crumbrow">Home&nbsp; /&nbsp; Food &amp; Beverage&nbsp; /&nbsp; <b>Staples</b></div>
+   755→              <div class="layout2">
+   756→                <aside class="flt">
+   757→                  <div class="flt-h">Filters <span class="mut" style="font-weight:600;font-size:10.5px">· Clear all</span></div>
+   758→                  <div class="flt-g">
+   759→                    <div class="flt-t">Category</div>
+   760→                    <div class="chk"><i class="on"></i>Rice &amp; Grains<span class="ct">412</span></div>
+   761→                    <div class="chk"><i class="on"></i>Pulses &amp; Dal<span class="ct">388</span></div>
+   762→                    <div class="chk"><i class="on"></i>Edible Oils<span class="ct">256</span></div>
+   763→                    <div class="chk"><i class="on"></i>Spices &amp; Masala<span class="ct">540</span></div>
+   764→                    <div class="chk"><i></i>Sugar &amp; Jaggery<span class="ct">96</span></div>
+   765→                    <div class="chk"><i></i>Flour &amp; Maida<span class="ct">118</span></div>
+   766→                  </div>
+   767→                  <div class="flt-g">
+   768→                    <div class="flt-t">Price per kg</div>
+   769→                    <div class="range"><i></i><u style="left:calc(22% - 6px)"></u><u style="left:calc(62% - 6px)"></u></div>
+   770→                    <div class="mut" style="font-size:10.5px">₹40 — ₹500 / kg</div>
+   771→                  </div>
+   772→                  <div class="flt-g">
+   773→                    <div class="flt-t">Minimum order qty (MOQ)</div>
+   774→                    <div class="range"><i></i><u style="left:calc(45% - 6px)"></u></div>
+   775→                    <div class="mut" style="font-size:10.5px">Up to 500 kg per product</div>
+   776→                  </div>
+   777→                  <div class="flt-g">
+   778→                    <div class="flt-t">Supplier location</div>
+   779→                    <div class="chk"><i class="on"></i>Haryana<span class="ct">164</span></div>
+   780→                    <div class="chk"><i></i>Delhi NCR<span class="ct">214</span></div>
+   781→                    <div class="chk"><i></i>Madhya Pradesh<span class="ct">187</span></div>
+   782→                    <div class="chk"><i></i>Maharashtra<span class="ct">142</span></div>
+   783→                  </div>
+   784→                  <div class="flt-g">
+   785→                    <div class="flt-t">Supplier type</div>
+   786→                    <div class="chk"><i class="on"></i>Manufacturer</div>
+   787→                    <div class="chk"><i></i>Wholesaler</div>
+   788→                    <div class="chk"><i></i>Distributor</div>
+   789→                  </div>
+   790→                  <div class="chk"><i class="on"></i><b style="font-size:11px">Verified suppliers only</b></div>
+   791→                </aside>
+   792→                <div class="rslt">
+   793→                  <div class="rslt-h">
+   794→                    <b style="font-size:13px">1,248 products</b>
+   795→                    <span class="row"><span class="inp" style="height:30px;font-size:11px">Sort: Price — low to high ▾</span><span class="chip chip-navy">✓ Verified</span><span class="chip">MOQ ≤ 500 kg</span></span>
+   796→                  </div>
+   797→                  <div class="pgrid3">
+   798→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Basmati Rice detail">
+   799→                      <span class="wf-img p-img"><i>Basmati Rice</i></span>
+   800→                      <div class="p-body">
+   801→                        <div class="p-name">Basmati Rice — Premium Long Grain</div>
+   802→                        <div class="mut">25 kg PP bag · Shree Grain Mills, HR</div>
+   803→                        <div class="p-price">₹60<span class="mut">/kg</span> <span class="chip chip-navy">₹57 @ 1,000+ kg</span></div>
+   804→                        <div class="row"><span class="chip">MOQ 100 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   805→                      </div>
+   806→                    </div>
+   807→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   808→                      <span class="wf-img p-img"><i>Non-Basmati Rice</i></span>
+   809→                      <div class="p-body">
+   810→                        <div class="p-name">Non-Basmati Rice — Sona Masoori</div>
+   811→                        <div class="mut">50 kg bag · Krishna Agro, TG</div>
+   812→                        <div class="p-price">₹42<span class="mut">/kg</span> <span class="chip chip-navy">₹39 @ 2,000+ kg</span></div>
+   813→                        <div class="row"><span class="chip">MOQ 500 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   814→                      </div>
+   815→                    </div>
+   816→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   817→                      <span class="wf-img p-img"><i>Wheat Atta</i></span>
+   818→                      <div class="p-body">
+   819→                        <div class="p-name">Wheat Atta — Chakki Fresh</div>
+   820→                        <div class="mut">50 kg bag · Annapurna Mills, MP</div>
+   821→                        <div class="p-price">₹32<span class="mut">/kg</span> <span class="chip chip-navy">₹30 @ 2,000+ kg</span></div>
+   822→                        <div class="row"><span class="chip">MOQ 500 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   823→                      </div>
+   824→                    </div>
+   825→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   826→                      <span class="wf-img p-img"><i>Chana Dal</i></span>
+   827→                      <div class="p-body">
+   828→                        <div class="p-name">Chana Dal — Machine Cleaned</div>
+   829→                        <div class="mut">50 kg bag · Laxmi Pulses, MH</div>
+   830→                        <div class="p-price">₹88<span class="mut">/kg</span> <span class="chip chip-navy">₹84 @ 1,000+ kg</span></div>
+   831→                        <div class="row"><span class="chip">MOQ 200 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   832→                      </div>
+   833→                    </div>
+   834→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   835→                      <span class="wf-img p-img"><i>Soyabean Oil</i></span>
+   836→                      <div class="p-body">
+   837→                        <div class="p-name">Soyabean Refined Oil</div>
+   838→                        <div class="mut">15 L tin · Goldfeed Oils, MP</div>
+   839→                        <div class="p-price">₹1,980<span class="mut">/tin</span> <span class="chip chip-navy">₹1,890 @ 100+ tins</span></div>
+   840→                        <div class="row"><span class="chip">MOQ 20 tins</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   841→                      </div>
+   842→                    </div>
+   843→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   844→                      <span class="wf-img p-img"><i>Mustard Oil</i></span>
+   845→                      <div class="p-body">
+   846→                        <div class="p-name">Mustard Oil — Kachi Ghani</div>
+   847→                        <div class="mut">5 L jar · Sarson Mills, RJ</div>
+   848→                        <div class="p-price">₹690<span class="mut">/jar</span> <span class="chip chip-navy">₹655 @ 200+ jars</span></div>
+   849→                        <div class="row"><span class="chip">MOQ 40 jars</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   850→                      </div>
+   851→                    </div>
+   852→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   853→                      <span class="wf-img p-img"><i>Turmeric Powder</i></span>
+   854→                      <div class="p-body">
+   855→                        <div class="p-name">Turmeric Powder — Salem</div>
+   856→                        <div class="mut">50 kg bag · Salem Spices, TN</div>
+   857→                        <div class="p-price">₹185<span class="mut">/kg</span> <span class="chip chip-navy">₹172 @ 1,000+ kg</span></div>
+   858→                        <div class="row"><span class="chip">MOQ 100 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   859→                      </div>
+   860→                    </div>
+   861→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   862→                      <span class="wf-img p-img"><i>Salt</i></span>
+   863→                      <div class="p-body">
+   864→                        <div class="p-name">Iodised Salt — Free Flow</div>
+   865→                        <div class="mut">50 kg bag · Sagar Salts, GJ</div>
+   866→                        <div class="p-price">₹11<span class="mut">/kg</span> <span class="chip chip-navy">₹9.5 @ 5,000+ kg</span></div>
+   867→                        <div class="row"><span class="chip">MOQ 1,000 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   868→                      </div>
+   869→                    </div>
+   870→                    <div class="pcard hot" data-go="s05" data-tip="→ 05 · Product detail (demo)">
+   871→                      <span class="wf-img p-img"><i>Garam Masala</i></span>
+   872→                      <div class="p-body">
+   873→                        <div class="p-name">Garam Masala — Blended</div>
+   874→                        <div class="mut">25 kg carton · Massewalas, DL</div>
+   875→                        <div class="p-price">₹420<span class="mut">/kg</span> <span class="chip chip-navy">₹398 @ 500+ kg</span></div>
+   876→                        <div class="row"><span class="chip">MOQ 100 kg</span><button type="button" class="btn btn-sm btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart</button></div>
+   877→                      </div>
+   878→                    </div>
+   879→                  </div>
+   880→                  <div class="pager"><span class="pg-b">‹</span><span class="pg-b on">1</span><span class="pg-b">2</span><span class="pg-b">3</span><span class="pg-b">…</span><span class="pg-b">42</span><span class="pg-b">›</span></div>
+   881→                </div>
+   882→              </div>
+   883→            </div>
+   884→          </div>
+   885→        </section>
+   886→
+   887→        <!-- ============ 05 · PRODUCT DETAIL ============ -->
+   888→        <section class="screen" id="s05" data-w="1160">
+   889→          <div class="scr-cap"><span class="cap-n">05</span>Product Detail — Basmati Rice · MOQ + Price Slabs<span class="cap-d">Desktop · 1160 px</span></div>
+   890→          <div class="chrome">
+   891→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/p/basmati-rice-premium</span><span class="chrome-x">⋯</span></div>
+   892→            <div class="site">
+   893→              <div class="u-strip"><span>Free delivery on bulk orders above ₹50,000</span><span class="sp"></span><a>Sell on BulkSetu</a><a>Help &amp; Support</a><a>EN ▾</a></div>
+   894→              <header class="hdr">
+   895→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+   896→                <div class="srch"><span class="inp grow">Search 5 lakh+ products…</span><button type="button" class="btn btn-navy">Search</button></div>
+   897→                <div class="hdr-r">
+   898→                  <button type="button" class="btn btn-line hot" data-go="s14" data-tip="→ 14 · Login / Register">Login / Register</button>
+   899→                  <button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button>
+   900→                </div>
+   901→              </header>
+   902→              <div class="crumbrow">Home&nbsp; /&nbsp; Staples&nbsp; /&nbsp; Rice &amp; Grains&nbsp; /&nbsp; <b>Basmati Rice — Premium Long Grain</b></div>
+   903→              <div class="pdp">
+   904→                <div class="gal">
+   905→                  <div class="wf-img gal-main"><i>Main product photo — 25 kg bag<br>(X-cross placeholder)</i></div>
+   906→                  <div class="thumbs"><span class="wf-img"><i>1</i></span><span class="wf-img"><i>2</i></span><span class="wf-img"><i>3</i></span><span class="wf-img"><i>4</i></span></div>
+   907→                </div>
+   908→                <div class="info">
+   909→                  <div class="row"><span class="chip">India Gate Classic · equivalent grade</span><span class="chip">Category: Rice &amp; Grains</span></div>
+   910→                  <h1>Basmati Rice — Premium Long Grain</h1>
+   911→                  <div class="row"><span class="chip chip-navy">4.6 ★ · 312 reviews</span><span class="chip">1.2 kt sold this month</span><span class="chip">GST invoice available</span></div>
+   912→                  <div class="bigprice"><b>₹60</b><span class="mut">/ kg · 500+ kg slab applied</span></div>
+   913→                  <table class="slabs">
+   914→                    <tr><th>Quantity slab</th><th>Price / kg</th><th>Saving</th><th></th></tr>
+   915→                    <tr><td>100 — 499 kg</td><td>₹64</td><td class="mut">—</td><td></td></tr>
+   916→                    <tr class="your"><td>500 — 999 kg</td><td>₹60</td><td>₹4 / kg</td><td><span class="chip chip-navy">Your slab</span></td></tr>
+   917→                    <tr><td>1,000+ kg</td><td>₹57</td><td>₹7 / kg</td><td class="mut">best value</td></tr>
+   918→                  </table>
+   919→                  <div class="qty">
+   920→                    <span class="a-lab">Pack size</span><span class="inp" style="min-width:130px">25 kg PP bag ▾</span>
+   921→                    <span class="a-lab" style="margin-left:8px">Quantity</span>
+   922→                    <span class="stepper"><b>−</b><s>500 kg</s><u>+</u></span>
+   923→                    <span class="chip chip-dash">MOQ 100 kg</span>
+   924→                    <span class="mut" style="font-size:10.5px">In stock · 40 MT available</span>
+   925→                  </div>
+   926→                  <div class="row">
+   927→                    <button type="button" class="btn btn-navy hot" data-go="s06" data-tip="→ 06 · Cart">Add to Cart — ₹30,000</button>
+   928→                    <button type="button" class="btn">Talk to Supplier</button>
+   929→                    <span class="mut" style="font-size:10.5px">Dispatch in 3–5 days · Karnal, Haryana</span>
+   930→                  </div>
+   931→                  <div class="payhint">
+   932→                    <div class="ph-t">BULKSETU PAYMENT PLAN — 10 / 90</div>
+   933→                    Pay <b>10% advance (₹3,000)</b> now to place this order → pay the remaining <b>90% (₹27,000)</b> only after you inspect &amp; accept the delivery. No auto-debit.
+   934→                  </div>
+   935→                </div>
+   936→                <aside class="supcard">
+   937→                  <div class="row" style="gap:10px">
+   938→                    <span class="wf-img suplogo"><i>logo</i></span>
+   939→                    <div><b style="font-size:12.5px">Shree Grain Mills Pvt. Ltd.</b><div class="mut" style="font-size:10px">Karnal, Haryana</div></div>
+   940→                  </div>
+   941→                  <div class="row" style="flex-wrap:wrap"><span class="chip chip-navy">✓ Verified supplier</span><span class="chip">8 yrs</span><span class="chip">4.5 ★</span></div>
+   942→                  <div class="mut" style="font-size:10.5px;line-height:1.5">Member since 2018 · 412 listings<br>Responds in ~2 hrs · Fulfils 98% orders</div>
+   943→                  <button type="button" class="btn btn-line btn-sm">View Catalogue</button>
+   944→                  <button type="button" class="btn btn-line btn-sm">Get Best Price</button>
+   945→                </aside>
+   946→              </div>
+   947→              <div class="sec strip" style="border-bottom:none">
+   948→                <span class="brandbox">Specs</span><span class="brandbox">Certifications</span><span class="brandbox">Reviews</span><span class="brandbox">Shipping &amp; Returns</span>
+   949→                <span class="sp"></span><span class="mut" style="font-size:10.5px">Tabs shown collapsed — wireframe scope</span>
+   950→              </div>
+   951→            </div>
+   952→          </div>
+   953→        </section>
+   954→
+   955→        <!-- ============ 06 · CART ============ -->
+   956→        <section class="screen" id="s06" data-w="1160">
+   957→          <div class="scr-cap"><span class="cap-n">06</span>Cart — Bulk Order Review<span class="cap-d">Desktop · 1160 px</span></div>
+   958→          <div class="chrome">
+   959→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/cart</span><span class="chrome-x">⋯</span></div>
+   960→            <div class="site">
+   961→              <div class="u-strip"><span>Free delivery on bulk orders above ₹50,000</span><span class="sp"></span><a>Sell on BulkSetu</a><a>Help &amp; Support</a><a>EN ▾</a></div>
+   962→              <header class="hdr">
+   963→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+   964→                <div class="srch"><span class="inp grow">Search 5 lakh+ products…</span><button type="button" class="btn btn-navy">Search</button></div>
+   965→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line">Cart · 3</button></div>
+   966→              </header>
+   967→              <div class="crumbrow">Home&nbsp; /&nbsp; <b>My Cart (3 items)</b></div>
+   968→              <div class="wrapc">
+   969→                <div class="cartt">
+   970→                  <h1>My Cart (3 items)</h1>
+   971→                  <table class="tb">
+   972→                    <tr><th style="width:44%">Product</th><th>Quantity</th><th>Unit price</th><th style="text-align:right">Amount</th></tr>
+   973→                    <tr>
+   974→                      <td><div class="citem"><span class="wf-img cimg"><i>img</i></span><span><b>Basmati Rice — Premium</b><br><span class="mut">25 kg PP bag · Shree Grain Mills · <span class="chip chip-navy" style="font-size:9px">slab ₹60/kg applied</span></span></span></div></td>
+   975→                      <td><span class="stepper"><b>−</b><s>500 kg</s><u>+</u></span></td>
+   976→                      <td>₹60 / kg</td>
+   977→                      <td style="text-align:right;font-weight:800;color:var(--dark)">₹30,000</td>
+   978→                    </tr>
+   979→                    <tr>
+   980→                      <td><div class="citem"><span class="wf-img cimg"><i>img</i></span><span><b>Arhar / Toor Dal — Unpolished</b><br><span class="mut">50 kg bag · Laxmi Pulses · <span class="chip chip-navy" style="font-size:9px">slab ₹110/kg applied</span></span></span></div></td>
+   981→                      <td><span class="stepper"><b>−</b><s>200 kg</s><u>+</u></span></td>
+   982→                      <td>₹110 / kg</td>
+   983→                      <td style="text-align:right;font-weight:800;color:var(--dark)">₹22,000</td>
+   984→                    </tr>
+   985→                    <tr>
+   986→                      <td><div class="citem"><span class="wf-img cimg"><i>img</i></span><span><b>Turmeric Powder — Salem</b><br><span class="mut">50 kg bag · Salem Spices · <span class="chip chip-navy" style="font-size:9px">slab ₹185/kg applied</span></span></span></div></td>
+   987→                      <td><span class="stepper"><b>−</b><s>100 kg</s><u>+</u></span></td>
+   988→                      <td>₹185 / kg</td>
+   989→                      <td style="text-align:right;font-weight:800;color:var(--dark)">₹18,500</td>
+   990→                    </tr>
+   991→                  </table>
+   992→                  <div class="row" style="margin-top:12px">
+   993→                    <span class="chip">✓ All items meet MOQ</span><span class="chip">26 packages total</span>
+   994→                    <span class="sp"></span>
+   995→                    <a class="sect-link hot" data-go="s04" data-tip="→ 04 · Continue shopping">+ Add more staples</a>
+   996→                  </div>
+   997→                </div>
+   998→                <aside class="cartsum">
+   999→                  <div class="card-t">Order Summary</div>
+  1000→                  <div class="kv"><span>Subtotal (3 items)</span><b>₹70,500</b></div>
+  1001→                  <div class="kv"><span>Bulk slab savings</span><span class="mut">already applied</span></div>
+  1002→                  <div class="kv"><span>Delivery — bulk freight</span><b>FREE</b></div>
+  1003→                  <div class="kv tot"><span>Order total</span><span>₹70,500</span></div>
+  1004→                  <div class="pplan">
+  1005→                    <div class="pplan-t">HOW YOU PAY — 10 / 90 SPLIT</div>
+  1006→                    <div class="pbox now">
+  1007→                      <div class="pb-l">NOW · 10% ADVANCE</div>
+  1008→                      <div class="pb-a">₹7,050</div>
+  1009→                      <div class="pb-s">Paid today at checkout — confirms the order with the supplier</div>
+  1010→                    </div>
+  1011→                    <div class="pbox later">
+  1012→                      <div class="pb-l">ON DELIVERY · 90% BALANCE</div>
+  1013→                      <div class="pb-a">₹63,450</div>
+  1014→                      <div class="pb-s">Pay after you inspect &amp; accept delivery · within 48 hrs · no auto-debit</div>
+  1015→                    </div>
+  1016→                  </div>
+  1017→                  <button type="button" class="btn btn-org btn-block hot" data-go="s07" data-tip="→ 07 · Checkout" style="margin-top:6px">Proceed to Checkout — pay ₹7,050 (10%) now</button>
+  1018→                  <div class="mut" style="text-align:center;margin-top:9px;font-size:10px">🔒 Demo wireframe · UPI / Card / Netbanking at checkout</div>
+  1019→                </aside>
+  1020→              </div>
+  1021→            </div>
+  1022→          </div>
+  1023→        </section>
+  1024→
+  1025→        <!-- ============ 07 · CHECKOUT ============ -->
+  1026→        <section class="screen" id="s07" data-w="1160">
+  1027→          <div class="scr-cap"><span class="cap-n">07</span>Checkout — Delivery &amp; 10/90 Payment Split<span class="cap-d">Desktop · 1160 px</span></div>
+  1028→          <div class="chrome">
+  1029→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/checkout</span><span class="chrome-x">⋯</span></div>
+  1030→            <div class="site">
+  1031→              <header class="hdr">
+  1032→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1033→                <div class="srch" style="max-width:420px"><span class="inp grow">Secure checkout</span></div>
+  1034→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button></div>
+  1035→              </header>
+  1036→              <div class="steps">
+  1037→                <span class="st done"><i>✓</i>Cart</span><span class="st-a"></span>
+  1038→                <span class="st cur"><i>2</i>Delivery &amp; Payment</span><span class="st-a"></span>
+  1039→                <span class="st"><i>3</i>Confirmation</span>
+  1040→              </div>
+  1041→              <div class="co-grid">
+  1042→                <div class="co-l">
+  1043→                  <div class="panel">
+  1044→                    <div class="card-t">Delivery Address <span class="chip">Business</span><span class="sp"></span><button type="button" class="btn btn-sm btn-line">Change</button><button type="button" class="btn btn-sm btn-line">+ Add New</button></div>
+  1045→                    <div class="addr-line">
+  1046→                      <b>Gupta Traders &amp; Co.</b> &nbsp;·&nbsp; GSTIN 07AAACG•••• <span class="mut">(billing)</span><br>
+  1047→                      Shop 14–16, Grain Market, Khari Baoli, Old Delhi — 110006<br>
+  1048→                      Landmark: Fatehpuri Masjid gate &nbsp;·&nbsp; Phone +91 98••• •••••
+  1049→                    </div>
+  1050→                  </div>
+  1051→                  <div class="panel">
+  1052→                    <div class="card-t">Delivery Speed</div>
+  1053→                    <div class="rcard sel"><span class="rdot"></span><b>Standard — arrives 03–05 Nov</b><span class="mut">· 26 packages · full-truck load</span><span class="sp"></span><b>FREE</b></div>
+  1054→                    <div class="rcard"><span class="rdot"></span><b>Express — arrives 01–02 Nov</b><span class="mut">· priority dispatch</span><span class="sp"></span><b>₹2,400</b></div>
+  1055→                    <div class="mut" style="font-size:10.5px;margin-top:4px">Order updates on WhatsApp &amp; SMS at +91 98••• •••••</div>
+  1056→                  </div>
+  1057→                  <div class="panel">
+  1058→                    <div class="card-t">Business Details (optional)</div>
+  1059→                    <div class="row" style="gap:10px;flex-wrap:wrap">
+  1060→                      <span class="inp" style="flex:1;min-width:180px">Purchase order no. (PO-2291)</span>
+  1061→                      <span class="inp" style="flex:1;min-width:180px">Delivery instructions — “call before unloading”</span>
+  1062→                    </div>
+  1063→                  </div>
+  1064→                </div>
+  1065→                <aside class="co-r">
+  1066→                  <div class="card-t">Order Summary</div>
+  1067→                  <div class="kv"><span>Basmati Rice · 500 kg</span><b>₹30,000</b></div>
+  1068→                  <div class="kv"><span>Arhar Dal · 200 kg</span><b>₹22,000</b></div>
+  1069→                  <div class="kv"><span>Turmeric Powder · 100 kg</span><b>₹18,500</b></div>
+  1070→                  <div class="kv"><span>Delivery — bulk freight</span><b>FREE</b></div>
+  1071→                  <div class="kv tot"><span>Order total</span><span>₹70,500</span></div>
+  1072→                  <div class="pplan" style="margin-top:11px">
+  1073→                    <div class="pplan-t">PAYMENT SPLIT — 10% / 90%</div>
+  1074→                    <div class="splitbox now">
+  1075→                      <div class="sb-r"><span class="sb-l">PAY NOW · 10% ADVANCE</span><span class="sb-a">₹7,050</span></div>
+  1076→                      <div class="sb-s">Charged today to confirm the order — gateway opens next</div>
+  1077→                    </div>
+  1078→                    <div class="splitbox later">
+  1079→                      <div class="sb-r"><span class="sb-l">ON DELIVERY · 90% BALANCE</span><span class="sb-a">₹63,450</span></div>
+  1080→                      <div class="sb-s">Due only after you inspect &amp; accept delivery (by 02 Nov) — UPI / Card / Netbanking</div>
+  1081→                    </div>
+  1082→                    <div class="row" style="font-size:10.5px" ><span class="chip chip-org">₹7,050 now</span><span class="mut">+</span><span class="chip chip-dash">₹63,450 later</span><span class="mut">=</span><b>₹70,500</b></div>
+  1083→                  </div>
+  1084→                  <button type="button" class="btn btn-org btn-block hot" data-go="s08" data-tip="→ 08 · Payment gateway" style="margin-top:12px">Pay ₹7,050 (10%) &amp; Place Order</button>
+  1085→                  <div class="fine">Advance adjusted against final total · Cancel anytime before dispatch → full 10% refund (demo policy)</div>
+  1086→                </aside>
+  1087→              </div>
+  1088→            </div>
+  1089→          </div>
+  1090→        </section>
+  1091→
+  1092→        <!-- ============ 08 · GATEWAY 10% ============ -->
+  1093→        <section class="screen" id="s08" data-w="1160">
+  1094→          <div class="scr-cap"><span class="cap-n">08</span>Payment Gateway — 10% Advance<span class="cap-d">Desktop · modal over checkout</span></div>
+  1095→          <div class="chrome">
+  1096→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">checkout · secure-pay overlay</span><span class="chrome-x">⋯</span></div>
+  1097→            <div class="site tall">
+  1098→              <div class="ghostpad">
+  1099→                <div class="row" style="gap:12px"><span class="wf-box" style="width:180px;height:44px">CHECKOUT (dimmed)</span><span class="wf-box" style="width:220px;height:44px">ORDER SUMMARY (dimmed)</span><span class="wf-box" style="width:160px;height:44px">PAYMENT SPLIT</span></div>
+  1100→                <span class="wline" style="width:70%;margin-top:14px"></span>
+  1101→                <span class="wline" style="width:55%;margin-top:8px"></span>
+  1102→                <span class="wline" style="width:63%;margin-top:8px"></span>
+  1103→              </div>
+  1104→              <div class="ovl">
+  1105→                <div class="modal">
+  1106→                  <div class="m-hd"><span class="logo-mark" style="width:24px;height:24px;font-size:13px">B</span>BulkSetu Secure Pay <span class="chip chip-navy">DEMO</span><span class="chip">SSL encrypted</span><button type="button" class="mx hot" data-go="s07" data-tip="→ back to 07 · Checkout">✕</button></div>
+  1107→                  <div class="m-body">
+  1108→                    <div class="mrow"><span class="wf-img" style="width:40px;height:40px;border-radius:6px"><i>logo</i></span><span><b>BulkSetu Marketplace</b><br><span class="mut">Order BS-2026-00847 · Gupta Traders &amp; Co.</span></span></div>
+  1109→                    <div class="amtban">
+  1110→                      <div class="a-l">PAYABLE NOW — 10% ADVANCE</div>
+  1111→                      <div class="a-v">₹7,050</div>
+  1112→                      <div class="a-s">Order total ₹70,500 · Balance <b style="color:var(--orgD)">₹63,450 (90%)</b> payable after delivery</div>
+  1113→                    </div>
+  1114→                    <div class="methods">
+  1115→                      <div class="radio-row sel"><span class="r-dot"></span><span class="r-lab">UPI</span><span class="chip chip-navy">Recommended</span><span class="r-sub">GPay · PhonePe · Paytm · scan QR</span><span class="wf-img r-logo"><i>UPI</i></span></div>
+  1116→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Credit / Debit Card</span><span class="r-sub">Visa · Mastercard · RuPay</span><span class="wf-img r-logo"><i>Card</i></span></div>
+  1117→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Netbanking</span><span class="r-sub">58 banks — SBI, HDFC, ICICI…</span><span class="wf-img r-logo"><i>Bank</i></span></div>
+  1118→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Wallet</span><span class="r-sub">Paytm · Amazon Pay</span><span class="wf-img r-logo"><i>Wallet</i></span></div>
+  1119→                    </div>
+  1120→                    <div class="m-ft">
+  1121→                      <button type="button" class="btn btn-org btn-block hot" data-go="s09" data-tip="→ 09 · Order confirmation">Pay ₹7,050 — Place Order</button>
+  1122→                      <div class="fine">Wireframe demo — no real transaction. In production: PCI-DSS gateway (e.g. Razorpay / PayU) · advance is adjusted against order total · 90% never auto-debited.</div>
+  1123→                    </div>
+  1124→                  </div>
+  1125→                </div>
+  1126→              </div>
+  1127→            </div>
+  1128→          </div>
+  1129→        </section>
+  1130→
+  1131→        <!-- ============ 09 · ORDER CONFIRMATION ============ -->
+  1132→        <section class="screen" id="s09" data-w="1160">
+  1133→          <div class="scr-cap"><span class="cap-n">09</span>Order Confirmation — 10% Paid, Order Placed<span class="cap-d">Desktop · 1160 px</span></div>
+  1134→          <div class="chrome">
+  1135→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/order/BS-2026-00847/confirmed</span><span class="chrome-x">⋯</span></div>
+  1136→            <div class="site">
+  1137→              <header class="hdr">
+  1138→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1139→                <div class="srch" style="max-width:420px"><span class="inp grow">Order confirmed</span></div>
+  1140→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s10" data-tip="→ 10 · My Orders">My Orders</button></div>
+  1141→              </header>
+  1142→              <div class="conf">
+  1143→                <div class="ckcircle">✓</div>
+  1144→                <h1>Order placed successfully!</h1>
+  1145→                <div class="mut" style="margin-top:5px">Order ID <b>BS-2026-00847</b> · 26 Oct 2026, 10:42 AM · Supplier notified — confirmation expected within 24 hrs</div>
+  1146→                <div class="mini-tl">
+  1147→                  <span class="mt-n done"><span class="mt-dot">✓</span>Placed · 10% paid</span><span class="mt-a"></span>
+  1148→                  <span class="mt-n"><span class="mt-dot"></span>Supplier confirms</span><span class="mt-a"></span>
+  1149→                  <span class="mt-n"><span class="mt-dot"></span>Dispatched</span><span class="mt-a"></span>
+  1150→                  <span class="mt-n"><span class="mt-dot"></span>Delivered</span><span class="mt-a"></span>
+  1151→                  <span class="mt-n"><span class="mt-dot"></span>Pay 90%</span><span class="mt-a"></span>
+  1152→                  <span class="mt-n"><span class="mt-dot"></span>Invoice</span>
+  1153→                </div>
+  1154→                <div class="receipt">
+  1155→                  <div class="r-r"><span>Advance paid now — 10% <span class="chip chip-navy" style="margin-left:6px">UPI</span></span><span><b>₹7,050</b>&nbsp; <span class="chip chip-navy">PAID ✓</span></span></div>
+  1156→                  <div class="r-r"><span>Balance on delivery — 90%</span><span><b>₹63,450</b>&nbsp; <span class="chip chip-dash">DUE — unlocks after delivery</span></span></div>
+  1157→                  <div class="r-r"><span>Order total (3 items · 26 packages)</span><span>₹70,500</span></div>
+  1158→                </div>
+  1159→                <div class="row" style="justify-content:center;gap:10px;flex-wrap:wrap">
+  1160→                  <button type="button" class="btn btn-navy hot" data-go="s11" data-tip="→ 11 · Order tracking">Track Order</button>
+  1161→                  <button type="button" class="btn hot" data-go="s10" data-tip="→ 10 · My Orders">View My Orders</button>
+  1162→                  <button type="button" class="btn btn-line hot" data-go="s02" data-tip="→ 02 · Home">Continue Shopping</button>
+  1163→                </div>
+  1164→                <div class="fine" style="margin-top:14px">You will pay ₹63,450 only after delivery is accepted — we will remind you on WhatsApp &amp; SMS. Reminder set for 01 Nov (demo).</div>
+  1165→              </div>
+  1166→            </div>
+  1167→          </div>
+  1168→        </section>
+  1169→
+  1170→        <!-- ============ 10 · MY ORDERS ============ -->
+  1171→        <section class="screen" id="s10" data-w="1160">
+  1172→          <div class="scr-cap"><span class="cap-n">10</span>My Orders — Payment Status per Order<span class="cap-d">Desktop · 1160 px</span></div>
+  1173→          <div class="chrome">
+  1174→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/my-orders</span><span class="chrome-x">⋯</span></div>
+  1175→            <div class="site">
+  1176→              <header class="hdr">
+  1177→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1178→                <div class="srch" style="max-width:420px"><span class="inp grow">Search orders by ID or product…</span><button type="button" class="btn btn-navy">Search</button></div>
+  1179→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button></div>
+  1180→              </header>
+  1181→              <div class="crumbrow">Home&nbsp; /&nbsp; <b>My Orders (3)</b></div>
+  1182→              <div class="sec" style="padding-top:10px">
+  1183→                <div class="tabs">
+  1184→                  <span class="tab on">All (3)</span><span class="tab">In Progress (1)</span><span class="tab">Awaiting 90% Payment (1)</span><span class="tab">Completed (1)</span>
+  1185→                </div>
+  1186→                <div class="ocard">
+  1187→                  <div class="o-top">
+  1188→                    <span class="o-id">BS-2026-00847</span><span class="mut">· placed 26 Oct · delivered 31 Oct</span>
+  1189→                    <span class="chip chip-org">Action: pay 90% balance</span>
+  1190→                    <span class="o-status warn">DELIVERED — payment pending</span>
+  1191→                  </div>
+  1192→                  <div class="mut" style="font-size:11px;margin-bottom:2px">Basmati Rice 500 kg · Arhar Dal 200 kg · Turmeric Powder 100 kg — order value <b>₹70,500</b></div>
+  1193→                  <div class="o-pay">
+  1194→                    <span class="ochip paid">10% · ₹7,050 — PAID ✓</span>
+  1195→                    <span class="mut">+</span>
+  1196→                    <span class="ochip due">90% · ₹63,450 — DUE (within 48 hrs of delivery)</span>
+  1197→                    <span class="sp"></span>
+  1198→                    <span class="mut" style="font-size:10px">Progress: 10% collected</span>
+  1199→                  </div>
+  1200→                  <div class="o-btns">
+  1201→                    <button type="button" class="btn btn-org hot" data-go="s12" data-tip="→ 12 · Pay 90% balance">Pay 90% — ₹63,450</button>
+  1202→                    <button type="button" class="btn hot" data-go="s11" data-tip="→ 11 · Tracking &amp; POD">Track / Details</button>
+  1203→                    <button type="button" class="btn btn-line">Raise Issue</button>
+  1204→                  </div>
+  1205→                </div>
+  1206→                <div class="ocard">
+  1207→                  <div class="o-top">
+  1208→                    <span class="o-id">BS-2026-00612</span><span class="mut">· placed 29 Oct · ETA 03 Nov</span>
+  1209→                    <span class="o-status mv">IN TRANSIT</span>
+  1210→                  </div>
+  1211→                  <div class="mut" style="font-size:11px;margin-bottom:2px">Soyabean Oil 15 L tins ×12 · Cow Ghee 60 kg — order value <b>₹24,800</b></div>
+  1212→                  <div class="o-pay">
+  1213→                    <span class="ochip paid">10% · ₹2,480 — PAID ✓</span>
+  1214→                    <span class="mut">+</span>
+  1215→                    <span class="ochip locked">90% · ₹22,320 — LOCKED until delivery</span>
+  1216→                  </div>
+  1217→                  <div class="o-btns">
+  1218→                    <button type="button" class="btn" disabled>Pay 90% — after delivery</button>
+  1219→                    <button type="button" class="btn hot" data-go="s11" data-tip="→ 11 · Tracking (demo)">Track</button>
+
+[showing lines 660-1219 of 1760; use offset=1220 with limit to continue reading]

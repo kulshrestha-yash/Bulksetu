@@ -1,0 +1,392 @@
+  1032→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1033→                <div class="srch" style="max-width:420px"><span class="inp grow">Secure checkout</span></div>
+  1034→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button></div>
+  1035→              </header>
+  1036→              <div class="steps">
+  1037→                <span class="st done"><i>✓</i>Cart</span><span class="st-a"></span>
+  1038→                <span class="st cur"><i>2</i>Delivery &amp; Payment</span><span class="st-a"></span>
+  1039→                <span class="st"><i>3</i>Confirmation</span>
+  1040→              </div>
+  1041→              <div class="co-grid">
+  1042→                <div class="co-l">
+  1043→                  <div class="panel">
+  1044→                    <div class="card-t">Delivery Address <span class="chip">Business</span><span class="sp"></span><button type="button" class="btn btn-sm btn-line">Change</button><button type="button" class="btn btn-sm btn-line">+ Add New</button></div>
+  1045→                    <div class="addr-line">
+  1046→                      <b>Gupta Traders &amp; Co.</b> &nbsp;·&nbsp; GSTIN 07AAACG•••• <span class="mut">(billing)</span><br>
+  1047→                      Shop 14–16, Grain Market, Khari Baoli, Old Delhi — 110006<br>
+  1048→                      Landmark: Fatehpuri Masjid gate &nbsp;·&nbsp; Phone +91 98••• •••••
+  1049→                    </div>
+  1050→                  </div>
+  1051→                  <div class="panel">
+  1052→                    <div class="card-t">Delivery Speed</div>
+  1053→                    <div class="rcard sel"><span class="rdot"></span><b>Standard — arrives 03–05 Nov</b><span class="mut">· 26 packages · full-truck load</span><span class="sp"></span><b>FREE</b></div>
+  1054→                    <div class="rcard"><span class="rdot"></span><b>Express — arrives 01–02 Nov</b><span class="mut">· priority dispatch</span><span class="sp"></span><b>₹2,400</b></div>
+  1055→                    <div class="mut" style="font-size:10.5px;margin-top:4px">Order updates on WhatsApp &amp; SMS at +91 98••• •••••</div>
+  1056→                  </div>
+  1057→                  <div class="panel">
+  1058→                    <div class="card-t">Business Details (optional)</div>
+  1059→                    <div class="row" style="gap:10px;flex-wrap:wrap">
+  1060→                      <span class="inp" style="flex:1;min-width:180px">Purchase order no. (PO-2291)</span>
+  1061→                      <span class="inp" style="flex:1;min-width:180px">Delivery instructions — “call before unloading”</span>
+  1062→                    </div>
+  1063→                  </div>
+  1064→                </div>
+  1065→                <aside class="co-r">
+  1066→                  <div class="card-t">Order Summary</div>
+  1067→                  <div class="kv"><span>Basmati Rice · 500 kg</span><b>₹30,000</b></div>
+  1068→                  <div class="kv"><span>Arhar Dal · 200 kg</span><b>₹22,000</b></div>
+  1069→                  <div class="kv"><span>Turmeric Powder · 100 kg</span><b>₹18,500</b></div>
+  1070→                  <div class="kv"><span>Delivery — bulk freight</span><b>FREE</b></div>
+  1071→                  <div class="kv tot"><span>Order total</span><span>₹70,500</span></div>
+  1072→                  <div class="pplan" style="margin-top:11px">
+  1073→                    <div class="pplan-t">PAYMENT SPLIT — 10% / 90%</div>
+  1074→                    <div class="splitbox now">
+  1075→                      <div class="sb-r"><span class="sb-l">PAY NOW · 10% ADVANCE</span><span class="sb-a">₹7,050</span></div>
+  1076→                      <div class="sb-s">Charged today to confirm the order — gateway opens next</div>
+  1077→                    </div>
+  1078→                    <div class="splitbox later">
+  1079→                      <div class="sb-r"><span class="sb-l">ON DELIVERY · 90% BALANCE</span><span class="sb-a">₹63,450</span></div>
+  1080→                      <div class="sb-s">Due only after you inspect &amp; accept delivery (by 02 Nov) — UPI / Card / Netbanking</div>
+  1081→                    </div>
+  1082→                    <div class="row" style="font-size:10.5px" ><span class="chip chip-org">₹7,050 now</span><span class="mut">+</span><span class="chip chip-dash">₹63,450 later</span><span class="mut">=</span><b>₹70,500</b></div>
+  1083→                  </div>
+  1084→                  <button type="button" class="btn btn-org btn-block hot" data-go="s08" data-tip="→ 08 · Payment gateway" style="margin-top:12px">Pay ₹7,050 (10%) &amp; Place Order</button>
+  1085→                  <div class="fine">Advance adjusted against final total · Cancel anytime before dispatch → full 10% refund (demo policy)</div>
+  1086→                </aside>
+  1087→              </div>
+  1088→            </div>
+  1089→          </div>
+  1090→        </section>
+  1091→
+  1092→        <!-- ============ 08 · GATEWAY 10% ============ -->
+  1093→        <section class="screen" id="s08" data-w="1160">
+  1094→          <div class="scr-cap"><span class="cap-n">08</span>Payment Gateway — 10% Advance<span class="cap-d">Desktop · modal over checkout</span></div>
+  1095→          <div class="chrome">
+  1096→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">checkout · secure-pay overlay</span><span class="chrome-x">⋯</span></div>
+  1097→            <div class="site tall">
+  1098→              <div class="ghostpad">
+  1099→                <div class="row" style="gap:12px"><span class="wf-box" style="width:180px;height:44px">CHECKOUT (dimmed)</span><span class="wf-box" style="width:220px;height:44px">ORDER SUMMARY (dimmed)</span><span class="wf-box" style="width:160px;height:44px">PAYMENT SPLIT</span></div>
+  1100→                <span class="wline" style="width:70%;margin-top:14px"></span>
+  1101→                <span class="wline" style="width:55%;margin-top:8px"></span>
+  1102→                <span class="wline" style="width:63%;margin-top:8px"></span>
+  1103→              </div>
+  1104→              <div class="ovl">
+  1105→                <div class="modal">
+  1106→                  <div class="m-hd"><span class="logo-mark" style="width:24px;height:24px;font-size:13px">B</span>BulkSetu Secure Pay <span class="chip chip-navy">DEMO</span><span class="chip">SSL encrypted</span><button type="button" class="mx hot" data-go="s07" data-tip="→ back to 07 · Checkout">✕</button></div>
+  1107→                  <div class="m-body">
+  1108→                    <div class="mrow"><span class="wf-img" style="width:40px;height:40px;border-radius:6px"><i>logo</i></span><span><b>BulkSetu Marketplace</b><br><span class="mut">Order BS-2026-00847 · Gupta Traders &amp; Co.</span></span></div>
+  1109→                    <div class="amtban">
+  1110→                      <div class="a-l">PAYABLE NOW — 10% ADVANCE</div>
+  1111→                      <div class="a-v">₹7,050</div>
+  1112→                      <div class="a-s">Order total ₹70,500 · Balance <b style="color:var(--orgD)">₹63,450 (90%)</b> payable after delivery</div>
+  1113→                    </div>
+  1114→                    <div class="methods">
+  1115→                      <div class="radio-row sel"><span class="r-dot"></span><span class="r-lab">UPI</span><span class="chip chip-navy">Recommended</span><span class="r-sub">GPay · PhonePe · Paytm · scan QR</span><span class="wf-img r-logo"><i>UPI</i></span></div>
+  1116→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Credit / Debit Card</span><span class="r-sub">Visa · Mastercard · RuPay</span><span class="wf-img r-logo"><i>Card</i></span></div>
+  1117→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Netbanking</span><span class="r-sub">58 banks — SBI, HDFC, ICICI…</span><span class="wf-img r-logo"><i>Bank</i></span></div>
+  1118→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Wallet</span><span class="r-sub">Paytm · Amazon Pay</span><span class="wf-img r-logo"><i>Wallet</i></span></div>
+  1119→                    </div>
+  1120→                    <div class="m-ft">
+  1121→                      <button type="button" class="btn btn-org btn-block hot" data-go="s09" data-tip="→ 09 · Order confirmation">Pay ₹7,050 — Place Order</button>
+  1122→                      <div class="fine">Wireframe demo — no real transaction. In production: PCI-DSS gateway (e.g. Razorpay / PayU) · advance is adjusted against order total · 90% never auto-debited.</div>
+  1123→                    </div>
+  1124→                  </div>
+  1125→                </div>
+  1126→              </div>
+  1127→            </div>
+  1128→          </div>
+  1129→        </section>
+  1130→
+  1131→        <!-- ============ 09 · ORDER CONFIRMATION ============ -->
+  1132→        <section class="screen" id="s09" data-w="1160">
+  1133→          <div class="scr-cap"><span class="cap-n">09</span>Order Confirmation — 10% Paid, Order Placed<span class="cap-d">Desktop · 1160 px</span></div>
+  1134→          <div class="chrome">
+  1135→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/order/BS-2026-00847/confirmed</span><span class="chrome-x">⋯</span></div>
+  1136→            <div class="site">
+  1137→              <header class="hdr">
+  1138→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1139→                <div class="srch" style="max-width:420px"><span class="inp grow">Order confirmed</span></div>
+  1140→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s10" data-tip="→ 10 · My Orders">My Orders</button></div>
+  1141→              </header>
+  1142→              <div class="conf">
+  1143→                <div class="ckcircle">✓</div>
+  1144→                <h1>Order placed successfully!</h1>
+  1145→                <div class="mut" style="margin-top:5px">Order ID <b>BS-2026-00847</b> · 26 Oct 2026, 10:42 AM · Supplier notified — confirmation expected within 24 hrs</div>
+  1146→                <div class="mini-tl">
+  1147→                  <span class="mt-n done"><span class="mt-dot">✓</span>Placed · 10% paid</span><span class="mt-a"></span>
+  1148→                  <span class="mt-n"><span class="mt-dot"></span>Supplier confirms</span><span class="mt-a"></span>
+  1149→                  <span class="mt-n"><span class="mt-dot"></span>Dispatched</span><span class="mt-a"></span>
+  1150→                  <span class="mt-n"><span class="mt-dot"></span>Delivered</span><span class="mt-a"></span>
+  1151→                  <span class="mt-n"><span class="mt-dot"></span>Pay 90%</span><span class="mt-a"></span>
+  1152→                  <span class="mt-n"><span class="mt-dot"></span>Invoice</span>
+  1153→                </div>
+  1154→                <div class="receipt">
+  1155→                  <div class="r-r"><span>Advance paid now — 10% <span class="chip chip-navy" style="margin-left:6px">UPI</span></span><span><b>₹7,050</b>&nbsp; <span class="chip chip-navy">PAID ✓</span></span></div>
+  1156→                  <div class="r-r"><span>Balance on delivery — 90%</span><span><b>₹63,450</b>&nbsp; <span class="chip chip-dash">DUE — unlocks after delivery</span></span></div>
+  1157→                  <div class="r-r"><span>Order total (3 items · 26 packages)</span><span>₹70,500</span></div>
+  1158→                </div>
+  1159→                <div class="row" style="justify-content:center;gap:10px;flex-wrap:wrap">
+  1160→                  <button type="button" class="btn btn-navy hot" data-go="s11" data-tip="→ 11 · Order tracking">Track Order</button>
+  1161→                  <button type="button" class="btn hot" data-go="s10" data-tip="→ 10 · My Orders">View My Orders</button>
+  1162→                  <button type="button" class="btn btn-line hot" data-go="s02" data-tip="→ 02 · Home">Continue Shopping</button>
+  1163→                </div>
+  1164→                <div class="fine" style="margin-top:14px">You will pay ₹63,450 only after delivery is accepted — we will remind you on WhatsApp &amp; SMS. Reminder set for 01 Nov (demo).</div>
+  1165→              </div>
+  1166→            </div>
+  1167→          </div>
+  1168→        </section>
+  1169→
+  1170→        <!-- ============ 10 · MY ORDERS ============ -->
+  1171→        <section class="screen" id="s10" data-w="1160">
+  1172→          <div class="scr-cap"><span class="cap-n">10</span>My Orders — Payment Status per Order<span class="cap-d">Desktop · 1160 px</span></div>
+  1173→          <div class="chrome">
+  1174→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/my-orders</span><span class="chrome-x">⋯</span></div>
+  1175→            <div class="site">
+  1176→              <header class="hdr">
+  1177→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1178→                <div class="srch" style="max-width:420px"><span class="inp grow">Search orders by ID or product…</span><button type="button" class="btn btn-navy">Search</button></div>
+  1179→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s06" data-tip="→ 06 · Cart">Cart · 3</button></div>
+  1180→              </header>
+  1181→              <div class="crumbrow">Home&nbsp; /&nbsp; <b>My Orders (3)</b></div>
+  1182→              <div class="sec" style="padding-top:10px">
+  1183→                <div class="tabs">
+  1184→                  <span class="tab on">All (3)</span><span class="tab">In Progress (1)</span><span class="tab">Awaiting 90% Payment (1)</span><span class="tab">Completed (1)</span>
+  1185→                </div>
+  1186→                <div class="ocard">
+  1187→                  <div class="o-top">
+  1188→                    <span class="o-id">BS-2026-00847</span><span class="mut">· placed 26 Oct · delivered 31 Oct</span>
+  1189→                    <span class="chip chip-org">Action: pay 90% balance</span>
+  1190→                    <span class="o-status warn">DELIVERED — payment pending</span>
+  1191→                  </div>
+  1192→                  <div class="mut" style="font-size:11px;margin-bottom:2px">Basmati Rice 500 kg · Arhar Dal 200 kg · Turmeric Powder 100 kg — order value <b>₹70,500</b></div>
+  1193→                  <div class="o-pay">
+  1194→                    <span class="ochip paid">10% · ₹7,050 — PAID ✓</span>
+  1195→                    <span class="mut">+</span>
+  1196→                    <span class="ochip due">90% · ₹63,450 — DUE (within 48 hrs of delivery)</span>
+  1197→                    <span class="sp"></span>
+  1198→                    <span class="mut" style="font-size:10px">Progress: 10% collected</span>
+  1199→                  </div>
+  1200→                  <div class="o-btns">
+  1201→                    <button type="button" class="btn btn-org hot" data-go="s12" data-tip="→ 12 · Pay 90% balance">Pay 90% — ₹63,450</button>
+  1202→                    <button type="button" class="btn hot" data-go="s11" data-tip="→ 11 · Tracking &amp; POD">Track / Details</button>
+  1203→                    <button type="button" class="btn btn-line">Raise Issue</button>
+  1204→                  </div>
+  1205→                </div>
+  1206→                <div class="ocard">
+  1207→                  <div class="o-top">
+  1208→                    <span class="o-id">BS-2026-00612</span><span class="mut">· placed 29 Oct · ETA 03 Nov</span>
+  1209→                    <span class="o-status mv">IN TRANSIT</span>
+  1210→                  </div>
+  1211→                  <div class="mut" style="font-size:11px;margin-bottom:2px">Soyabean Oil 15 L tins ×12 · Cow Ghee 60 kg — order value <b>₹24,800</b></div>
+  1212→                  <div class="o-pay">
+  1213→                    <span class="ochip paid">10% · ₹2,480 — PAID ✓</span>
+  1214→                    <span class="mut">+</span>
+  1215→                    <span class="ochip locked">90% · ₹22,320 — LOCKED until delivery</span>
+  1216→                  </div>
+  1217→                  <div class="o-btns">
+  1218→                    <button type="button" class="btn" disabled>Pay 90% — after delivery</button>
+  1219→                    <button type="button" class="btn hot" data-go="s11" data-tip="→ 11 · Tracking (demo)">Track</button>
+  1220→                  </div>
+  1221→                </div>
+  1222→                <div class="ocard">
+  1223→                  <div class="o-top">
+  1224→                    <span class="o-id">BS-2026-00358</span><span class="mut">· placed 02 Sep · delivered 06 Sep</span>
+  1225→                    <span class="o-status ok">COMPLETED — PAID IN FULL</span>
+  1226→                  </div>
+  1227→                  <div class="mut" style="font-size:11px;margin-bottom:2px">Wheat Atta 1,000 kg — order value <b>₹18,900</b></div>
+  1228→                  <div class="o-pay">
+  1229→                    <span class="ochip paid">10% · ₹1,890 — PAID ✓</span>
+  1230→                    <span class="mut">+</span>
+  1231→                    <span class="ochip paid">90% · ₹17,010 — PAID ✓</span>
+  1232→                  </div>
+  1233→                  <div class="o-btns">
+  1234→                    <button type="button" class="btn hot" data-go="s13" data-tip="→ 13 · Invoice">View Invoice</button>
+  1235→                    <button type="button" class="btn btn-line">Reorder</button>
+  1236→                  </div>
+  1237→                </div>
+  1238→              </div>
+  1239→            </div>
+  1240→          </div>
+  1241→        </section>
+  1242→
+  1243→        <!-- ============ 11 · ORDER TRACKING ============ -->
+  1244→        <section class="screen" id="s11" data-w="1160">
+  1245→          <div class="scr-cap"><span class="cap-n">11</span>Order Tracking — Delivered · 90% Payment Unlocked<span class="cap-d">Desktop · 1160 px</span></div>
+  1246→          <div class="chrome">
+  1247→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/order/BS-2026-00847/track</span><span class="chrome-x">⋯</span></div>
+  1248→            <div class="site">
+  1249→              <header class="hdr">
+  1250→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1251→                <div class="srch" style="max-width:420px"><span class="inp grow">Order BS-2026-00847</span></div>
+  1252→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s10" data-tip="→ 10 · My Orders">My Orders</button></div>
+  1253→              </header>
+  1254→              <div class="crumbrow"><a class="hot" data-go="s10" data-tip="→ 10 · My Orders">← My Orders</a>&nbsp; /&nbsp; <b>Order BS-2026-00847</b>&nbsp; <span class="chip chip-org">Delivered — action pending: pay 90%</span></div>
+  1255→              <div class="track">
+  1256→                <div class="panel" style="flex:1">
+  1257→                  <div class="card-t">Delivery Progress</div>
+  1258→                  <div class="tl">
+  1259→                    <div class="tl-it done">
+  1260→                      <span class="tl-dot"></span>
+  1261→                      <div class="tl-t">Order placed — 10% advance paid</div>
+  1262→                      <div class="tl-d">26 Oct, 10:42 AM · ₹7,050 via UPI · receipt #R-4410 sent on email</div>
+  1263→                    </div>
+  1264→                    <div class="tl-it done">
+  1265→                      <span class="tl-dot"></span>
+  1266→                      <div class="tl-t">Supplier confirmed</div>
+  1267→                      <div class="tl-d">26 Oct, 6:15 PM · Shree Grain Mills Pvt. Ltd. · packing started</div>
+  1268→                    </div>
+  1269→                    <div class="tl-it done">
+  1270→                      <span class="tl-dot"></span>
+  1271→                      <div class="tl-t">Packed &amp; dispatched</div>
+  1272→                      <div class="tl-d">28 Oct · 26 packages · LR-8842 · e-way bill attached</div>
+  1273→                    </div>
+  1274→                    <div class="tl-it done">
+  1275→                      <span class="tl-dot"></span>
+  1276→                      <div class="tl-t">Out for delivery</div>
+  1277→                      <div class="tl-d">31 Oct, 7:05 AM · vehicle DL-01-GX•••• · driver +91 99••• •••••</div>
+  1278→                    </div>
+  1279→                    <div class="tl-it cur">
+  1280→                      <span class="tl-dot"></span>
+  1281→                      <div class="tl-t">Delivered — accepted by buyer</div>
+  1282→                      <div class="tl-d">31 Oct, 9:20 AM · proof of delivery captured below</div>
+  1283→                      <div class="pod">
+  1284→                        <span class="wf-img"><i>POD — delivery photo<br>(X-cross placeholder)</i></span>
+  1285→                        <span class="wf-img"><i>Signature<br>(X-cross placeholder)</i></span>
+  1286→                        <span class="mut" style="font-size:10.5px;line-height:1.5">Signed: R. Gupta<br>Qty verified: 26/26<br>No damage reported</span>
+  1287→                      </div>
+  1288→                    </div>
+  1289→                    <div class="tl-it pend">
+  1290→                      <span class="tl-dot"></span>
+  1291→                      <div class="tl-act">
+  1292→                        <div class="ta-t">ACTION REQUIRED — PAY 90% BALANCE</div>
+  1293→                        <div class="ta-a">₹63,450</div>
+  1294→                        <div class="ta-s">Due within 48 hrs of delivery — by 02 Nov 2026 · pay via UPI / Card / Netbanking</div>
+  1295→                        <button type="button" class="btn btn-org hot" data-go="s12" data-tip="→ 12 · Gateway — 90%">Pay Now — ₹63,450</button>
+  1296→                      </div>
+  1297→                    </div>
+  1298→                    <div class="tl-it pend">
+  1299→                      <span class="tl-dot"></span>
+  1300→                      <div class="tl-t">Completed — invoice issued</div>
+  1301→                      <div class="tl-d">Tax invoice auto-generated after full payment</div>
+  1302→                    </div>
+  1303→                  </div>
+  1304→                </div>
+  1305→                <aside class="paycard">
+  1306→                  <div class="card-t">Order &amp; Payment</div>
+  1307→                  <div class="kv"><span>Basmati Rice · 500 kg</span><b>₹30,000</b></div>
+  1308→                  <div class="kv"><span>Arhar Dal · 200 kg</span><b>₹22,000</b></div>
+  1309→                  <div class="kv"><span>Turmeric Powder · 100 kg</span><b>₹18,500</b></div>
+  1310→                  <div class="kv"><span>Delivery — bulk freight</span><b>FREE</b></div>
+  1311→                  <div class="kv tot"><span>Order total</span><span>₹70,500</span></div>
+  1312→                  <div style="margin-top:12px">
+  1313→                    <div class="kv"><span class="chip chip-navy">10% — ₹7,050 PAID ✓</span><span class="mut">26 Oct</span></div>
+  1314→                    <div class="pg"><i></i></div>
+  1315→                    <div class="row" style="justify-content:space-between;font-size:10px"><span class="mut">0</span><span class="mut" style="color:var(--orgD);font-weight:700">10% collected</span><span class="mut">100%</span></div>
+  1316→                    <div class="kv" style="margin-top:10px"><span class="chip chip-dash">90% — ₹63,450 DUE</span><span class="mut">unlock: delivered</span></div>
+  1317→                  </div>
+  1318→                  <button type="button" class="btn btn-org btn-block hot" data-go="s12" data-tip="→ 12 · Gateway — 90%" style="margin-top:12px">Pay 90% Balance — ₹63,450</button>
+  1319→                  <button type="button" class="btn btn-line btn-block" style="margin-top:8px">Raise an Issue (refund / dispute)</button>
+  1320→                  <div class="fine">10% refundable in full if order cancelled before dispatch (demo policy)</div>
+  1321→                </aside>
+  1322→              </div>
+  1323→            </div>
+  1324→          </div>
+  1325→        </section>
+  1326→
+  1327→        <!-- ============ 12 · GATEWAY 90% ============ -->
+  1328→        <section class="screen" id="s12" data-w="1160">
+  1329→          <div class="scr-cap"><span class="cap-n">12</span>Payment Gateway — 90% Balance on Delivery<span class="cap-d">Desktop · modal over tracking</span></div>
+  1330→          <div class="chrome">
+  1331→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">order · secure-pay overlay</span><span class="chrome-x">⋯</span></div>
+  1332→            <div class="site tall">
+  1333→              <div class="ghostpad">
+  1334→                <div class="row" style="gap:12px"><span class="wf-box" style="width:200px;height:44px">TRACKING (dimmed)</span><span class="wf-box" style="width:180px;height:44px">POD CAPTURED ✓</span><span class="wf-box" style="width:180px;height:44px">PAYMENT STATUS</span></div>
+  1335→                <span class="wline" style="width:66%;margin-top:14px"></span>
+  1336→                <span class="wline" style="width:48%;margin-top:8px"></span>
+  1337→              </div>
+  1338→              <div class="ovl">
+  1339→                <div class="modal">
+  1340→                  <div class="m-hd"><span class="logo-mark" style="width:24px;height:24px;font-size:13px">B</span>BulkSetu Secure Pay <span class="chip chip-navy">DEMO</span><span class="chip">Final step</span><button type="button" class="mx hot" data-go="s11" data-tip="→ back to 11 · Tracking">✕</button></div>
+  1341→                  <div class="m-body">
+  1342→                    <div class="mrow"><span class="wf-img" style="width:40px;height:40px;border-radius:6px"><i>logo</i></span><span><b>Final Payment — on delivery</b><br><span class="mut">Order BS-2026-00847 · delivered &amp; accepted 31 Oct, 9:20 AM</span></span></div>
+  1343→                    <div class="amtban">
+  1344→                      <div class="a-l">BALANCE DUE — 90% OF ORDER</div>
+  1345→                      <div class="a-v">₹63,450</div>
+  1346→                      <div class="a-s">Order ₹70,500 − advance paid ₹7,050 (10% ✓) · complete by 02 Nov</div>
+  1347→                    </div>
+  1348→                    <div class="methods">
+  1349→                      <div class="radio-row sel"><span class="r-dot"></span><span class="r-lab">UPI</span><span class="chip chip-navy">Recommended</span><span class="r-sub">GPay · PhonePe · Paytm · scan QR</span><span class="wf-img r-logo"><i>UPI</i></span></div>
+  1350→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Credit / Debit Card</span><span class="r-sub">Visa · Mastercard · RuPay</span><span class="wf-img r-logo"><i>Card</i></span></div>
+  1351→                      <div class="radio-row"><span class="r-dot"></span><span class="r-lab">Netbanking</span><span class="r-sub">58 banks — SBI, HDFC, ICICI…</span><span class="wf-img r-logo"><i>Bank</i></span></div>
+  1352→                    </div>
+  1353→                    <div class="m-ft">
+  1354→                      <button type="button" class="btn btn-org btn-block hot" data-go="s13" data-tip="→ 13 · Invoice — paid in full">Pay ₹63,450 — Complete Order</button>
+  1355→                      <div class="fine">Invoice unlocks instantly after payment · order marked completed · supplier payout released (demo)</div>
+  1356→                    </div>
+  1357→                  </div>
+  1358→                </div>
+  1359→              </div>
+  1360→            </div>
+  1361→          </div>
+  1362→        </section>
+  1363→
+  1364→        <!-- ============ 13 · INVOICE ============ -->
+  1365→        <section class="screen" id="s13" data-w="1160">
+  1366→          <div class="scr-cap"><span class="cap-n">13</span>Invoice — Order Complete · Paid in Full<span class="cap-d">Desktop · 1160 px</span></div>
+  1367→          <div class="chrome">
+  1368→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/invoice/BS/26/00847</span><span class="chrome-x">⋯</span></div>
+  1369→            <div class="site">
+  1370→              <header class="hdr">
+  1371→                <div class="logo"><span class="logo-mark">B</span><span class="logo-txt"><span class="w"><span class="nb">Bulk</span><span class="no">Setu</span></span><i>B2B MARKETPLACE</i></span></div>
+  1372→                <div class="srch" style="max-width:420px"><span class="inp grow">Invoice BS/26/00847</span></div>
+  1373→                <div class="hdr-r"><button type="button" class="btn btn-line">Gupta Traders ▾</button><button type="button" class="btn btn-line hot" data-go="s10" data-tip="→ 10 · My Orders">My Orders</button></div>
+  1374→              </header>
+  1375→              <div class="paper">
+  1376→                <div class="inv-hd">
+  1377→                  <span class="logo-mark" style="width:40px;height:40px;font-size:22px">B</span>
+  1378→                  <span><b style="font-size:17px"><span class="nb">Bulk</span><span class="no">Setu</span> <span class="mut" style="font-weight:600;font-size:11px">B2B MARKETPLACE</span></b><br><span class="mut" style="font-size:10.5px">BulkSetu Technologies Pvt. Ltd. · Delhi, India · support@bulksetu.in</span></span>
+  1379→                  <span class="sp"></span>
+  1380→                  <span style="text-align:right"><b style="font-size:15px">TAX INVOICE</b> <span class="chip">DEMO</span><br><span class="mut" style="font-size:10.5px">Original for Recipient</span></span>
+  1381→                </div>
+  1382→                <div class="inv-meta">
+  1383→                  <div><b>Seller</b>Shree Grain Mills Pvt. Ltd.<br>GSTIN 06AAACS••••<br>Karnal, Haryana</div>
+  1384→                  <div><b>Buyer</b>Gupta Traders &amp; Co.<br>GSTIN 07AAACG••••<br>Khari Baoli, Delhi</div>
+  1385→                  <div><b>Invoice / Order</b>Invoice BS/26/00847<br>Order BS-2026-00847<br>Dated 31 Oct 2026</div>
+  1386→                  <div><b>Delivery</b>Delivered 31 Oct, 9:20 AM<br>POD #8842 · 26 packages<br>LR-8842 · e-way bill ✓</div>
+  1387→                </div>
+  1388→                <table class="inv-tb">
+  1389→                  <tr><th style="width:34px">#</th><th>Item</th><th>HSN</th><th>Qty</th><th>Rate</th><th style="text-align:right">Amount</th></tr>
+  1390→                  <tr><td>1</td><td>Basmati Rice — Premium Long Grain (25 kg PP bag)</td><td>100890</td><td>500 kg</td><td>₹60 / kg</td><td style="text-align:right">₹30,000</td></tr>
+  1391→                  <tr><td>2</td><td>Arhar / Toor Dal — Unpolished (50 kg bag)</td><td>071360</td><td>200 kg</td><td>₹110 / kg</td><td style="text-align:right">₹22,000</td></tr>
+  1392→                  <tr><td>3</td><td>Turmeric Powder — Salem (50 kg bag)</td><td>091030</td><td>100 kg</td><td>₹185 / kg</td><td style="text-align:right">₹18,500</td></tr>
+  1393→                  <tr><td colspan="4" class="mut">Delivery — bulk freight</td><td></td><td style="text-align:right">FREE</td></tr>
+  1394→                  <tr><td colspan="5" style="text-align:right;font-weight:800">Invoice total</td><td style="text-align:right;font-weight:800">₹70,500</td></tr>
+  1395→                </table>
+  1396→                <div class="inv-pay">
+  1397→                  <div class="inv-sum">
+  1398→                    <div class="r-r"><span>10% advance — paid 26 Oct · UPI</span><span><b>₹7,050</b> <span class="chip chip-navy">PAID ✓</span></span></div>
+  1399→                    <div class="r-r"><span>90% balance — paid 31 Oct · Card</span><span><b>₹63,450</b> <span class="chip chip-navy">PAID ✓</span></span></div>
+  1400→                    <div class="r-r"><span>Total settled (100%)</span><span>₹70,500</span></div>
+  1401→                  </div>
+  1402→                  <div class="stampwrap"><span class="stamp">PAID IN FULL</span></div>
+  1403→                </div>
+  1404→                <div class="row" style="margin-top:18px;gap:10px">
+  1405→                  <button type="button" class="btn">Download Invoice PDF</button>
+  1406→                  <button type="button" class="btn btn-navy hot" data-go="s10" data-tip="→ 10 · My Orders">Back to My Orders</button>
+  1407→                  <button type="button" class="btn btn-line">Rate Supplier ★★★★★</button>
+  1408→                  <span class="sp"></span>
+  1409→                  <span class="mut" style="font-size:10px">Demo invoice — figures illustrative</span>
+  1410→                </div>
+  1411→              </div>
+  1412→            </div>
+  1413→          </div>
+  1414→        </section>
+  1415→
+  1416→        <!-- ============ 14 · LOGIN / REGISTER ============ -->
+  1417→        <section class="screen" id="s14" data-w="1160">
+  1418→          <div class="scr-cap"><span class="cap-n">14</span>Login / Register — Buyer Account<span class="cap-d">Desktop · 1160 px</span></div>
+  1419→          <div class="chrome">
+  1420→            <div class="chrome-bar"><span class="dots"><i></i><i></i><i></i></span><span class="url">bulksetu.in/account</span><span class="chrome-x">⋯</span></div>
+  1421→            <div class="site">
+
+[showing lines 1032-1421 of 1760; use offset=1422 with limit to continue reading]

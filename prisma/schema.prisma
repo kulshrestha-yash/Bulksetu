@@ -1,0 +1,92 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// ─── Buyer accounts ──────────────────────────────────────────────────────────
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  passwordHash String
+  businessName String
+  ownerName    String
+  mobile       String?
+  gstin        String?
+  buyerType    String   @default("Retailer / Kirana")
+  isDemo       Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  orders       Order[]
+}
+
+// ─── Catalog ─────────────────────────────────────────────────────────────────
+// priceSlabs: JSON array [{ minQty: number, price: number }] — sorted ascending.
+// moq = minimum order quantity in the product's base unit (kg / tin / jar / bag).
+model Product {
+  id            String   @id @default(cuid())
+  slug          String   @unique
+  name          String
+  grade         String? // e.g. "Premium Long Grain"
+  category      String // functional category e.g. "Rice & Grains"
+  department    String   @default("Food & Beverage")
+  packSize      String // e.g. "25 kg PP bag"
+  unit          String // pricing unit: "kg" | "tin" | "jar" | "bag" | "carton"
+  moq           Float
+  basePrice     Float // best listed slab price per unit (₹)
+  priceSlabs    String // JSON [{ minQty, price }]
+  supplierName  String
+  supplierCity  String
+  supplierState String
+  supplierType  String   @default("Manufacturer")
+  supplierYears Int      @default(5)
+  supplierRating Float   @default(4.5)
+  rating        Float    @default(4.5)
+  reviews       Int      @default(0)
+  stockKg       Float    @default(5000) // available stock expressed in base unit
+  hsn           String
+  description   String?
+  imageHint     String? // label shown on the image placeholder
+  imageUrl      String? // set later — placeholder renders until provided
+  featured      Boolean  @default(false)
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
+
+// ─── Orders (10 / 90 split) ─────────────────────────────────────────────────
+// items:    JSON [{ productId, slug, name, packSize, unit, qty, slabPrice, amount, hsn, supplierName, imageHint }]
+// address:  JSON { businessName, gstin, line1, line2, city, state, pincode, phone, landmark }
+// events:   JSON [{ id, status, title, detail, at }]
+// status:   PLACED | CONFIRMED | DISPATCHED | IN_TRANSIT | DELIVERED | COMPLETED | CANCELLED
+model Order {
+  id            String   @id @default(cuid())
+  orderNo       String   @unique // BS-2026-00847
+  userId        String?
+  user          User?    @relation(fields: [userId], references: [id])
+  items         String
+  subtotal      Float
+  deliveryFee   Float    @default(0)
+  total         Float
+  advanceAmount Float // 10%
+  balanceAmount Float // 90%
+  advancePaid   Boolean  @default(false)
+  balancePaid   Boolean  @default(false)
+  advanceMethod String? // UPI | Card | Netbanking | Wallet
+  balanceMethod String?
+  advanceRef    String? // gateway payment reference
+  balanceRef    String?
+  status        String   @default("PLACED")
+  address       String
+  deliverySpeed String   @default("Standard")
+  poNumber      String?
+  deliveryNote  String?
+  etaFrom       String? // ISO date
+  etaTo         String? // ISO date
+  deliveredAt   DateTime?
+  events        String   @default("[]")
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+}
