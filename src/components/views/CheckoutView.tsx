@@ -9,6 +9,7 @@ import { Button } from "@/components/ui/button";
 import { useCart, cartTotals } from "@/store/cart";
 import { useSession } from "@/store/session";
 import { navigate } from "@/lib/hash-router";
+import { usePayModal } from "@/components/site/SecurePayModal";
 import { inr } from "@/lib/format";
 import type { AddressDTO, OrderDTO } from "@/lib/types";
 import { toast } from "sonner";
@@ -83,7 +84,6 @@ export default function CheckoutView() {
       const order: OrderDTO = data.order;
       clear();
       // open the secure-pay modal for the 10% advance against this order
-      const { usePayModal } = await import("@/components/site/SecurePayModal");
       usePayModal.getState().open({
         orderNo: order.orderNo,
         kind: "advance",

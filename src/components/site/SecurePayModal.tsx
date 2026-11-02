@@ -18,7 +18,7 @@ import { toast } from "sonner";
 import type { PayMethod } from "@/lib/payments/types";
 
 interface PayModalState {
-  open: boolean;
+  isOpen: boolean;
   orderNo: string;
   kind: "advance" | "balance";
   amount: number;
@@ -28,13 +28,13 @@ interface PayModalState {
 }
 
 export const usePayModal = create<PayModalState>()((set) => ({
-  open: false,
+  isOpen: false,
   orderNo: "",
   kind: "advance",
   amount: 0,
   onSuccess: undefined,
-  open: (p) => set({ open: true, ...p }),
-  close: () => set({ open: false, onSuccess: undefined }),
+  open: (p) => set({ isOpen: true, ...p }),
+  close: () => set({ isOpen: false, onSuccess: undefined }),
 }));
 
 const METHODS: { id: PayMethod; label: string; sub: string; badge?: string }[] = [
@@ -45,7 +45,7 @@ const METHODS: { id: PayMethod; label: string; sub: string; badge?: string }[] =
 ];
 
 export function SecurePayModal() {
-  const { open, orderNo, kind, amount, onSuccess, close } = usePayModal();
+  const { isOpen, orderNo, kind, amount, onSuccess, close } = usePayModal();
   const [method, setMethod] = useState<PayMethod>("UPI");
   const [busy, setBusy] = useState(false);
 
@@ -78,7 +78,7 @@ export function SecurePayModal() {
   };
 
   return (
-    <Dialog open={open} onOpenChange={(v) => !v && !busy && close()}>
+    <Dialog open={isOpen} onOpenChange={(v) => !v && !busy && close()}>
       <DialogContent className="sm:max-w-[520px] p-0 overflow-hidden gap-0" aria-describedby={undefined}>
         <DialogHeader className="flex-row items-center gap-2.5 px-4 py-3 bg-muted border-b border-border rounded-none">
           <DialogTitle className="flex items-center gap-2.5 text-[12.5px] font-extrabold text-ink">
